@@ -1,4 +1,3 @@
-#by Tayeeb Hasan
 from PIL  import ImageGrab, ImageOps
 import pyautogui
 import time
